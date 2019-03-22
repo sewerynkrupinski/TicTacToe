@@ -234,10 +234,7 @@ public class PracaDomowa2 {
             }
             
         }  
-            
-        
-        
-        
+  
     }
     
 }
